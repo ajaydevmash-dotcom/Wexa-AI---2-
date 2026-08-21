@@ -1,0 +1,6 @@
+{
+  "name": "CognoDB Graph Cloud Benchmarking Suite",
+  "description": "Comprehensive, reproducible benchmark suite comparing CognoDB Cloud against Neo4j AuraDB, Memgraph, FalkorDB, and ArangoDB on identical 0.5 vCPU / 256MB-512MB free tier cloud instances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
